@@ -4,7 +4,7 @@
   <a href="https://twitter.com/imsemihk" target="blank">
     <img src="https://img.shields.io/twitter/follow/imsemihk?logo=twitter&style=for-the-badge" alt="imsemihk" />
   </a>
-</p> - 🌱 I’m currently learning **Javascript** </br> 👨‍💻 All of my projects are available at [semihkocaman.com](semihkocaman.com) </br> 📫 How to reach me **hi@semihkocaman.com** <h3 align="center">Connect with me:</h3>
+</p align="center"> - 🌱 I’m currently learning **Javascript** </br> 👨‍💻 All of my projects are available at [semihkocaman.com](semihkocaman.com) </br> 📫 How to reach me **hi@semihkocaman.com** <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/imsemihk" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imsemihk" height="30" width="40" />
