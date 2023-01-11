@@ -44,6 +44,6 @@
 
 
 
-<div align="center">
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=k19spnws2rmjv6sz0d18wgg7v)
-</div>
+
