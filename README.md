@@ -84,9 +84,11 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=imsemihk&show_icons=true&count_private=true&hide_border=true" align="center" />  
+<img src="https://github-readme-stats.vercel.app/api?username=imsemihk&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-
+<div align="right">
+<img src="https://i.gifer.com/2GU.gif" align="right" height="100%" width="200px" />
+</div>  
   
 
 <br/>  
@@ -105,3 +107,4 @@
 
 
 <br />
+
