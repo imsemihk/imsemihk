@@ -74,7 +74,7 @@
 <a href="https://twitter.com/imsemihk" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/imsemihk" target="_blank">
+<a href="#">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -83,9 +83,7 @@
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=imsemihk&show_icons=true&count_private=true&hide_border=true" align="left" />  
-<iframe src="https://gifer.com/embed/2GU" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+  
 
 
 
