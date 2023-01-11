@@ -40,16 +40,10 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/imsemihk/imsemihk/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
 
+<div align="center">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=k19spnws2rmjv6sz0d18wgg7v)
-
+</div>
