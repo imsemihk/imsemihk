@@ -68,7 +68,7 @@
 <br/>  
 
 
-## Connect with me  
+## Connect With Me  
 <div align="center">
 <a href="https://linkedin.com/in/imsemihk" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" style="margin-bottom: 5px;" alt="linkedin logo"  />
@@ -91,7 +91,7 @@
 ###
 
 
-
+## My Github Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false&username=imsemihk" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&username=imsemihk" height="150" alt="languages graph"  />
