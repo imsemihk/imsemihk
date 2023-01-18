@@ -1,10 +1,12 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<br>
+<br>
+<div align="right">
+<img src="https://user-images.githubusercontent.com/74452337/213055877-01dba17a-4e0c-43fb-9eb8-d110f330de4d.gif" align="right" height="275px" width="275px" />
+</div> 
 
-### <div align="center">Hi 👋, I'm Semih KOCAMAN</br>A passionate frontend developer from Turkey</div>  
-  
+# Hi 👋, I'm Semih KOCAMAN 
+
+### A passionate frontend developer from Turkey
 
 - 🌱 I’m currently learning **Javascript**  
   
@@ -13,9 +15,9 @@
   
 
 - 📫 How to reach me **hi@semihkocaman.com**  
-  
+<br>
+<br>
 
-<br/>  
 
 
 ## My Skill Set  
@@ -23,7 +25,7 @@
 
 
 
-### Frontend  
+### What I learned 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -49,7 +51,7 @@
 
 
 
-### DevOps  
+### Tools I use well
 <div align="center">  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
@@ -68,18 +70,31 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/imsemihk" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/imsemihk" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" style="margin-bottom: 5px;" alt="linkedin logo"  />
 </a>
+  <a href="https://instagram.com/imsemihk" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" style="margin-bottom: 5px;" alt="instagram logo"  />
+</a>  
 <a href="https://twitter.com/imsemihk" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="#">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+  
 </div>  
   
 
 <br/>  
 
+###
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false&username=imsemihk" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false&username=imsemihk" height="150" alt="languages graph"  />
+  
+</div>
 
